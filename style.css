@@ -168,7 +168,7 @@ nav .menu li {
 
   transition: all 0.5s ease;
 }
-.item:hover.item-bg{
+.item:hover.item-bg {
   transition: all 0.5s ease;
 }
 
@@ -231,7 +231,7 @@ nav .menu li {
     margin-top: 100px;
   }
 }
-.details li{
+.details li {
   margin: 25px;
 }
 .details h1 {
@@ -269,7 +269,7 @@ nav .menu li {
   .item-link {
     padding: 22px 40px;
   }
- 
+
   .ag-courses-item_date-box {
     font-size: 16px;
   }
@@ -546,10 +546,8 @@ form .button input:hover {
 .item-link:hover,
 .item-link:hover .item-date {
   text-decoration: none;
-  color: #FFF;
+  color: #fff;
 }
 .item-link:hover .item-bg {
-  -webkit-transform: scale(10);
-  -ms-transform: scale(10);
   transform: scale(10);
 }
